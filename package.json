@@ -1,0 +1,17 @@
+{
+  "name": "gh-spy",
+  "version": "1.0.0",
+  "main": "cli.js",
+  "bin":{
+    "gh-spy": "./cli.js"
+  },
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yaipha",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": ""
+}
